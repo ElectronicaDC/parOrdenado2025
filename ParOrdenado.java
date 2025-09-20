@@ -1,5 +1,5 @@
 /**
- *Tarea 10 del practico N1 (rama master)
+ *Tarea de prueba tp 2025 (rama master)
  */
 public class ParOrdenado {
     
